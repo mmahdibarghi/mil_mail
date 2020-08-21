@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MILMAIL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email_hint">alpha@beta.com</string>
+    <string name="subject_hint">New Course Started!</string>
+</resources>
